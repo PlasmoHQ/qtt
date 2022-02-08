@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "./dist/",
+    "outDir": "dist",
     "baseUrl": ".",
     "paths": {
       "~*": ["./*"]
@@ -13,10 +13,10 @@
     "noImplicitReturns": true,
     "esModuleInterop": true,
     "noImplicitAny": false,
-    "module": "esnext",
     "moduleResolution": "node",
     "isolatedModules": true,
-    "target": "esnext",
+    "module": "commonjs",
+    "target": "es5",
     "allowJs": true
   },
   "include": ["index.ts"],
