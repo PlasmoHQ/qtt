@@ -17,7 +17,7 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "@swc/core": "^1.2.120",
+    "@swc/core": "1.2.142",
     "@swc/helpers": "^0.3.2",
     "@trivago/prettier-plugin-sort-imports": "^3.1.1",
     "@types/node": "^16.11.13",
