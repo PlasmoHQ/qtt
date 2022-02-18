@@ -14,7 +14,7 @@
     "build": "tsc"
   },
   "author": "Plasmo Corp. <support@plasmo.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "@swc/core": "1.2.142",
