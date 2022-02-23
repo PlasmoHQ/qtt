@@ -18,7 +18,7 @@
     "allowJs": true,
     "importsNotUsedAsValues": "error"
   },
-  "include": ["index.ts"],
+  "include": ["src/**/*.ts"],
   "ts-node": {
     "transpileOnly": true,
     "resolveJsonModule": true,
