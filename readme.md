@@ -3,5 +3,5 @@
 ## Publish process
 
 1. Commit any changes to the repository.
-2. `npm version patch | minor | major`
-3. `npm publish`
+2. `pnpm version patch | minor | major`
+3. `pnpm publish`
