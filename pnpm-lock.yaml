@@ -3,7 +3,7 @@ lockfileVersion: 5.3
 specifiers:
   '@plasmo-corp/rps': 1.0.3
   '@swc/core': 1.2.144
-  '@swc/helpers': 0.3.3
+  '@swc/helpers': 0.3.5
   '@trivago/prettier-plugin-sort-imports': 3.2.0
   '@types/node': 17.0.19
   esbuild: 0.14.23
@@ -17,7 +17,7 @@ dependencies:
 
 devDependencies:
   '@swc/core': 1.2.144
-  '@swc/helpers': 0.3.3
+  '@swc/helpers': 0.3.5
   '@trivago/prettier-plugin-sort-imports': 3.2.0_prettier@2.5.1
   '@types/node': 17.0.19
   esbuild: 0.14.23
@@ -406,8 +406,8 @@ packages:
       '@swc/core-win32-x64-msvc': 1.2.144
     dev: true
 
-  /@swc/helpers/0.3.3:
-    resolution: {integrity: sha512-NdRQSjcceaXsQDNYyK0wWyRvrn5rsvugK8vnTiRB2i0UCaD2slUFUq28tmojILW5A04oF+sZRMxd0Cy7xS/y0A==}
+  /@swc/helpers/0.3.5:
+    resolution: {integrity: sha512-VfC4vSeGiN9gx+NO8PrMvZP2Nh6Pjfaq/9PdcgVRl3SgDs/zLbDRIfpM5nia+c4Fvdfg0EnfhlLFgX7jFS2/Rg==}
     dev: true
 
   /@trivago/prettier-plugin-sort-imports/3.2.0_prettier@2.5.1:
