@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "outDir": "dist",
-    "baseUrl": "src",
+    "baseUrl": ".",
     "paths": {
-      "~*": ["./*"]
+      "~*": ["./src/*"]
     },
     "resolveJsonModule": true,
     "sourceMap": true,
@@ -21,5 +21,5 @@
     "allowJs": true,
     "importsNotUsedAsValues": "error"
   },
-  "include": ["src/**/*.ts"]
+  "include": ["src/**/*.ts", "tests/**/*.test.ts"]
 }
