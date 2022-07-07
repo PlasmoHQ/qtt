@@ -29,7 +29,7 @@
     "@jest/types": "28.1.1",
     "@plasmohq/rps": "workspace:*",
     "@trivago/prettier-plugin-sort-imports": "3.2.0",
-    "@types/node": "18.0.1",
+    "@types/node": "18.0.3",
     "cross-env": "7.0.3",
     "jest": "28.1.2",
     "prettier": "2.7.1",
